@@ -1,0 +1,10 @@
+# Tugas-CI-LAnjutan-2
+Halaman Home
+![alt text](https://github.com/Firdareynikaa/Tugas-CI-LAnjutan-2/blob/master/h1.PNG?raw=true)
+![alt text](https://github.com/Firdareynikaa/Tugas-CI-LAnjutan-2/blob/master/h2.PNG?raw=true)
+Halaman Profile
+![alt text](https://github.com/Firdareynikaa/Tugas-CI-LAnjutan-2/blob/master/h3.PNG?raw=true)
+Halaman Gallery
+![alt text](https://github.com/Firdareynikaa/Tugas-CI-LAnjutan-2/blob/master/h4.PNG?raw=true)
+Halaman Event
+![alt text](https://github.com/Firdareynikaa/Tugas-CI-LAnjutan-2/blob/master/h5.PNG?raw=true)
